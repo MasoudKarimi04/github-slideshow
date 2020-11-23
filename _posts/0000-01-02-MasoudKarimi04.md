@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+What do you call a dog? A domestic animal. 
 Use the left arrow to go back!
